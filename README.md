@@ -32,7 +32,7 @@ Kaggle competition to predict student exam scores based on various features.
 
 ## Best Model: PL + Meta-Stacking
 
-**CV RMSE: 8.72238**
+**CV RMSE: 8.72238 | Public LB: 8.70545**
 
 ### Architecture
 

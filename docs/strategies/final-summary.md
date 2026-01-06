@@ -2,7 +2,7 @@
 
 ## Mejor Modelo: PL + Meta-Stacking
 
-**CV RMSE: 8.72238**
+**CV RMSE: 8.72238 | Public LB: 8.70545**
 
 ### Descripcion
 
@@ -70,6 +70,8 @@ Combina dos tecnicas:
 | Metrica | Valor |
 |---------|-------|
 | RMSE inicial | 8.78256 |
-| RMSE final | 8.72238 |
-| Mejora total | 0.06018 |
-| Gap al top (~8.54) | 0.182 |
+| CV RMSE final | 8.72238 |
+| **Public LB** | **8.70545** |
+| Mejora total (CV) | 0.06018 |
+| Mejora total (LB) | 0.07711 |
+| Gap al top (~8.54) | 0.165 |
